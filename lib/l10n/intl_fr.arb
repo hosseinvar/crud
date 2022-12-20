@@ -1,0 +1,18 @@
+{
+  "crud": "Crud",
+  "firstName": "",
+  "lastName": "",
+  "phoneNumber": "",
+  "dateOFBirth": "",
+  "email": "",
+  "bankAccountNumber": "",
+  "addCustomer": "",
+  "validFirstName": "",
+  "validLastName": "",
+  "validPhone": "",
+  "validEmail": "",
+  "validBankAccountNumber": "",
+  "validBirthDay": "",
+  "customerAdded": "",
+  "problem": ""
+}
