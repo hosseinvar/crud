@@ -9,7 +9,7 @@ final router = GoRouter(
   routes: [
     GoRoute(
       path: '/',
-      builder: (context, state) => AddCustomer(),
+      builder: (context, state) => const AddCustomer(),
     ),
   ],
 );
